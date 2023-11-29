@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "homepage": "https://github.com/isanych/sleep",
+  "license": "MIT",
+  "bin": "sleep.exe",
+  "url": "https://github.com/isanych/sleep/releases/download/v1.0/sleep.exe",
+  "hash": "baf72c434283fcf2fb4b1b4bcfd89f6aaf5645d5d9947305b867bfc768d6b75d"
+}
